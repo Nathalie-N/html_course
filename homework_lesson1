@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ua">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewpoint"content="width^device^width, initial^scale-1,0">
+    <title>Self intro</title>
+ </head>
+     <body>
+      <h1><center>Малова Наталія</center></h1>
+     <center><img width="150" height="224" src="https://i.pinimg.com/564x/c0/32/48/c0324886265f810ae3c8ff9296a7fe76.jpg" alt="doggo"></img> </center> 
+     <hr/>    
+      <h2><center>Чому обрала фронтенд</center></h2>
+       <ul>
+        <li>Цікаво спробувати створити навіть найпростіший сайт</li>  
+        <li>Хочу дізнатись більше про "нутрощі" сайтів і як воно між собою взаємодіє</li>  
+        <li>Вирішила спробувати свічнутись і просто фронтенд видався цікавішим за бекенд</li>  
+       </ul>
+       <hr/>
+       <h2><center>Посилання на улюблений сайт</center></h2>
+       <a href="https://www.netflix.com/jp/">Netflix</a>
+       <hr/>
+       <h2><center>Трохи про себе</center></h2>
+           Вчилась у Львові і переїхала на навчання до Японії. От і живу тут вже 3 роки (два з яких працюю в японській компанії).
+           <hr/>
+       <h2><center>Очікування від курсу</center></h2>   
+           Освоїти базу HTML i CSS. Також зрозуміти чи підходить мені така робота, чи ні.
+        </body>
+</html>
